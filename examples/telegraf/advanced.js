@@ -1,7 +1,7 @@
 const Telegraf = require('telegraf')
 const { Keyboard } = require('../../lib')
 
-const bot = new Telegraf(process.env.BOT_TOKEN)
+const bot = new Telegraf(process.env.5153018587:AAFIdnzWBjRwUghDULjicH5K19FE5LGImG0)
 
 const backKeyboard = Keyboard.make(['Back'])
 
